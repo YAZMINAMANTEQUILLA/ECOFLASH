@@ -71,7 +71,7 @@ body a{
 	font-weight: 600;
  }
  .menu li a:hover ,.menu li.active a{
-	 background:#fff;
+	 background:red;
 	 color:#000;
  } 
  #nav .current a {
@@ -1853,6 +1853,7 @@ fieldset.input input[type="submit"]:hover {
 @media (max-width:800px){
 .menu {
 	 margin:10px 0 0;
+	 background: #45BF55;
   }
   .header_right {
 	 width: 10%;
